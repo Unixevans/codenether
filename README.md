@@ -1,3 +1,2 @@
 # codenether
-Repo untuk menyimpan semua project yang berkaitan dengan web development.
-Code programming Front End (HTML, CSS, JS) maupun Back End (PHP, Python, Node.js, MySQL)
+Repo untuk menyimpan semua project web development HTML, CSS, JS, PHP, Python, dan MySQL.
